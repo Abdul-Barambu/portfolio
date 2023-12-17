@@ -22,12 +22,12 @@ const About = () => {
             <article className="about__card">
               <FaAward className='about__icon' />
               <h5>Experience</h5>
-              <small>4+ Years Working</small>
+              <small>5+ Years Working</small>
             </article>
             <article className="about__card">
               <FiUsers className='about__icon' />
               <h5>Clients</h5>
-              <small>3+ WorldWide</small>
+              <small>7+ WorldWide</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className='about__icon' />
@@ -37,7 +37,7 @@ const About = () => {
           </div>
           <p>
            I am Abdulkadir Umar Barambu, a software engineer with over
-           4 years of experience in tech world. I am a fullstack developer, 
+           5 years of experience in tech world. I am a fullstack developer, 
            a security enigineer and a system engineer.
           </p>
           <a href="contact" className='btn btn-primary'>Let's Talk</a>
