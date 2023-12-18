@@ -27,16 +27,6 @@ const Portfolio = () => {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-img">
-            <img src={Paylite} alt="" />
-          </div>
-          <h3>Paylite Website</h3>
-          <div className="portfolio__item-cta">
-            <a href="https://github.com/Abdul-Barambu/Paylite" className="btn" target='_blank'>Github</a>
-            <a href="https://paylite-olive.vercel.app/" className="btn btn-primary" target='_blank'>Live Demo</a>
-          </div>
-        </article>
-        <article className="portfolio__item">
-          <div className="portfolio__item-img">
             <img src={Orellions} alt="" />
           </div>
           <h3>Orellions Company Website</h3>
@@ -63,16 +53,6 @@ const Portfolio = () => {
           <div className="portfolio__item-cta">
             <a href="https://github.com/" className="btn" target='_blank'>Github</a>
             <a href="https://frontend-chow.vercel.app/" className="btn btn-primary" target='_blank'>Live Demo</a>
-          </div>
-        </article>
-        <article className="portfolio__item">
-          <div className="portfolio__item-img">
-            <img src={chat} alt="" />
-          </div>
-          <h3>Simple chattinf app</h3>
-          <div className="portfolio__item-cta">
-            <a href="https://github.com/" className="btn" target='_blank'>Github</a>
-            <a href="https://chat-app-eta-liart.vercel.app/" className="btn btn-primary" target='_blank'>Live Demo</a>
           </div>
         </article>
       </div>
