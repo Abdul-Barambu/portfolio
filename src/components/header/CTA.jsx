@@ -1,5 +1,5 @@
 import React from 'react';
-import cv from '../../assets/Abdulkadir Umar Barambu Cv(1).pdf';
+import cv from '../../assets/Abdulkadir Umar Barambu Cv.pdf';
 
 const CTA = () => {
   return (
